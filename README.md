@@ -58,7 +58,37 @@
 ![图片](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg1.doubanio.com%2Fview%2Fnote%2Fl%2Fpublic%2Fp82460877.jpg&refer=http%3A%2F%2Fimg1.doubanio.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1653965393&t=da7cf97485685f2bca68109a6ef03563 "图片标题")
 
 
+在文章中插入特定的代码段
 
+```c
+
+#include<stdio.h>
+int main()
+{
+	printf("c 语言测试代码");
+}
+```
+
+```python
+
+import os
+def self():
+	a = 4+5
+	return a
+
+```
+
+```cpp
+#include<iostream>
+using namespace std;
+
+int main()
+{
+
+     return 0;
+}
+
+```
 
 
 
